@@ -1,5 +1,5 @@
 export default () => {
     return {
-        address: '0x36eb1b02cB7Be3ffA1eE7Bd2A3c7D036002730F7'
+        address: '0x76f743b149e1CB1B2B25Af7869bBa76dbebdBD9E'
     }
 }
