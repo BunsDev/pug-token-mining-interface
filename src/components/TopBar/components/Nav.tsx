@@ -11,17 +11,20 @@ const Nav: React.FC = () => {
       <StyledLink exact activeClassName="active" to="/farms">
         Menu
       </StyledLink>
-      <StyledLink exact activeClassName="active" to="/shop">
-        Shop
-      </StyledLink>
+      <StyledAbsoluteLink
+        href="https://puginu.finance"
+        target="_blank"
+      >
+        Pug Inu
+      </StyledAbsoluteLink>
       <StyledLink exact activeClassName="active" to="/nfts">
         NFTs
       </StyledLink>
       <StyledAbsoluteLink
-        href="https://medium.com/sushiswap/the-sushiswap-project-c4049ea9941e"
+        href="https://app.puginu.finance"
         target="_blank"
       >
-        About
+        Swap
       </StyledAbsoluteLink>
     </StyledNav>
   )
