@@ -6,22 +6,22 @@ const Nav: React.FC = () => {
     <StyledNav>
       <StyledLink
         target="_blank"
-        href="#"
+        href="https://t.me/PugInuFinance"
       >
         Telegram
       </StyledLink>
-      <StyledLink target="_blank" href="https://discord.gg/hJ2p555">
-        Discord
+      <StyledLink target="_blank" href="https://puginu.finance">
+        Pug Inu
       </StyledLink>
-      <StyledLink target="_blank" href="https://github.com/sushiswap">
+      <StyledLink target="_blank" href="https://github.com/puginufinance/">
         GitHub
       </StyledLink>
-      <StyledLink target="_blank" href="https://twitter.com/sushiswap">
+      <StyledLink target="_blank" href="https://twitter.com/PugInu_Finance">
         Twitter
       </StyledLink>
       <StyledLink
         target="_blank"
-        href="#"
+        href="https://medium.com/@puginu-finance"
       >
         Medium
       </StyledLink>
