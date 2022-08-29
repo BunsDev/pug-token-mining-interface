@@ -1,7 +1,7 @@
 export const Pools = [
     {
         poolAddresses: {
-            97: '0xA818AcF5eb30eC7BE669266da06eB5fee0aa773e',
+            97: '0x1D8249b17ced93b7bbA015AAc5fC4B13AE76fcc0',
         },
         stakingTokenAddresses: {
             97: '0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd',
