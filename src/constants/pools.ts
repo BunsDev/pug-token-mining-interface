@@ -24,7 +24,7 @@ export const Pools = [
         symbol: 'BUSD',
         tokenSymbol: 'BUSD',
         isWBNB: false,
-        icon: 'eth',
+        icon: 'busd',
         magnification: 1,
     },
     {
@@ -38,8 +38,8 @@ export const Pools = [
         symbol: 'PUG',
         tokenSymbol: 'PUG',
         isWBNB: false,
-        icon: 'btcb',
-        magnification: 1,
+        icon: 'pug',
+        magnification: 3,
 
     },
 ]
